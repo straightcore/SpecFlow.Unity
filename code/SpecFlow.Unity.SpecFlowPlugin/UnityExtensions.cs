@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Linq;
 
-using Microsoft.Practices.Unity;
+using Unity;
 
 using TechTalk.SpecFlow;
+using Unity.RegistrationByConvention;
 
 namespace SpecFlow.Unity
 {
